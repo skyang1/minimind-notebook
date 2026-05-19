@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/minimind/',
+  base: '/minimind-notebook/',
   title: "懒虫笔记",
   description: "自用笔记，食用中毒概不负责",
 
